@@ -1,0 +1,7 @@
+LevelAccess: firefox "https://www.gracker.org"
+Walkthrough: openup the developer consol
+		look secrets in the HTML response
+
+
+password: "level0"
+nextLevel: "ssh level0@gracker.org"
